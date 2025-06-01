@@ -74,7 +74,7 @@ const allSongs = [
     title: "soundgasm",
     artist: "Rema",
     duration: "3:24",
-    src: "https://cdn.trendybeatz.com/audio/Rema-Soundgasm-New-Song-(TrendyBeatz..com).mp3",
+    src: "https://cdn.trendybeatz.com/audio/Rema-Soundgasm-(TrendyBeatz..com).mp3",
   },
 ];
 
