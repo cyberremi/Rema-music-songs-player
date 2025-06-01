@@ -74,7 +74,7 @@ const allSongs = [
     title: "soundgasm",
     artist: "Rema",
     duration: "3:24",
-    src: "https://cdn.freecodecamp.org/curriculum/js-music-player/chasing-that-feeling.mp3",
+    src: "https://cdn.trendybeatz.com/audio/Rema-Soundgasm-New-Song-(TrendyBeatz..com).mp3",
   },
 ];
 
